@@ -45,3 +45,13 @@ Variable information in the data:
 
 The benchmark will be LightGBM model. We will provide it before the first optional submission. Model will be evaluated on basis of Gini Score.
 
+**Model Evaluation Metric**
+
+The model will be evaluated using the normalized Gini index. We will calculate your score once you submit your result. For your inference, here is the formula of Gini Index:
+![image](https://github.com/mayukhsen13/travelers-modeling-competition-InsNova-Auto-Insurance-Company/assets/63372685/d9123272-1ff0-4f09-80a7-647ca139c629)
+![image](https://github.com/mayukhsen13/travelers-modeling-competition-InsNova-Auto-Insurance-Company/assets/63372685/173a67a5-2b01-4e43-a21e-f6f8a6ec618e)
+
+
+ For more Information Refer https://www.kaggle.com/competitions/2023-travelers-university-competition/overview
+
+
